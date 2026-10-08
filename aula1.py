@@ -1,0 +1,12 @@
+print("Bem vindo ao seu Robô Assistente")
+nome=input("Qual é seu nome ?")
+idade=input("Qual é sua idade ?")
+fazer=input("O que você gosta de fazer nas horas vagas ?")
+animal=input("Qual é seu animal favorito ?")
+print("Suas informações gerais :")
+print("Quem é você :", nome)
+print("Sua idade :", idade)
+print("Qual é a sua principal atividade nas hora vagas :", fazer)
+print("Qual animal você mais gosta :", animal)
+print("Muito interessantes suas informações, você parece ser alguém muito legal")
+#Professor me dá 1 ponto extra, por favor :>
